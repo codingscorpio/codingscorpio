@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codingscorpio
 - 👀 I’m interested in Learning new Technologies.
 - 🌱 I’m currently learning Python and Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to contribute a firm which values hard work as i put every possible effort to complete any task provided before deadline.
 - 📫 You can reach me on waghsamarth@gmail.com 
 
 <!---
